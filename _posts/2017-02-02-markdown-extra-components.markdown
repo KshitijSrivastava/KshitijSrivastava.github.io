@@ -1,7 +1,7 @@
 ---
 title: Test post
 layout: post
-date: 2017-02-02 22:48
+date: 2017-02-02 22:00
 blog: true
 ---
 
