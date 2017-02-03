@@ -17,12 +17,12 @@ layout: page
 	<li>C++</li>
 	<li>C</li>
 	<li>Python</li>
+	<li>Verilog</li>
+	<li>Spice Software</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Project 1</a></li>
 </ul>
