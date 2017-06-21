@@ -31,4 +31,5 @@ layout: page
 
 <ul>
 	<li><a href="https://www.dropbox.com/s/inr1936pt1g87yp/Kshitij%20Summer%20Trg%202017.jpg?dl=0">Vehicle factory Jabalpur- Vocational Training</a></li>
+	<p>The Trainng was for 15 days i.e from 1st of June to 15th of June. Overall working of the plants, assembly of army trucks was seen. I studied and worked on CNC machines.</p>
 </ul>
