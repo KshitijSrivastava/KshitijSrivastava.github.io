@@ -24,5 +24,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Project 1</a></li>
+	<li><a href="https://github.com/">Communication Engg Project- Data Transmission through light using Arduino</a></li>
 </ul>
