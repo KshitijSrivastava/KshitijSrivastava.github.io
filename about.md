@@ -26,3 +26,9 @@ layout: page
 <ul>
 	<li><a href="https://github.com/">Communication Engg Project- Data Transmission through light using Arduino</a></li>
 </ul>
+
+<h2>Internships</h2>
+
+<ul>
+	<li><a href="https://www.dropbox.com/s/inr1936pt1g87yp/Kshitij%20Summer%20Trg%202017.jpg?dl=0">Vehicle factory Jabalpur- Vocational Training</a></li>
+</ul>
