@@ -31,6 +31,7 @@ layout: page
 	<li><a href="https://github.com/KshitijSrivastava/Voice-Based-Tone-Classification-and-Person-Identification">Embedded Systems- Voice based Tone and Person Identification </a></li>
 	<li><a href="https://github.com/KshitijSrivastava/MLGenderIdentification">Machine Learning- Gender Identification and Classification</a></li>
 	<li><a href="https://github.com/KshitijSrivastava/Optimum-Detection-of-Signals-in-Rayleigh-Fading">Digital Communication- Optimum Detection of Signals in Rayleigh Fading Channel</a></li>
+	<li><a href="https://github.com/">VLSI- Low power 1 bit Adder</a></li>
 	<li><a href="https://github.com/">Communication Engg Project- Data Transmission through light using Arduino</a></li>
 	<li><a href="https://github.com/">Robotics- Driverless Bot</a></li>
 	
@@ -49,10 +50,18 @@ layout: page
 
 <h2>Certifications</h2>
 <ul>
-	<li>Introduction to Modern Application Development</li>
+	<li>Introduction to Modern Application Development- NPTEL & IIT Madras</li>
 	<p>Got to know about making and working of a modern web application</p>
 	
-	<li>Fundamentals of Digital Image and Video Processing</li>
-	<p> Learnt the basic principles and tools which are used to process images and videos and apply them in solving practical problem </p>
+	<li>Fundamentals of Digital Image and Video Processing- Coursera</li>
+	<p> Learnt the basic principles and tools which are used to process images and videos and apply them in solving practical problem
+	
+	<li>Digital Signal Processing- Coursera</li>
+	<p>Learnt the basic fundamentals governing the digital signal processing, and its usage in design of communication systems</p>
+	
+	<li>Python 101 for Data Science- Cognitive class.AI</li>
+	<p></p>
+	
+	</p>
 	
 </ul>
