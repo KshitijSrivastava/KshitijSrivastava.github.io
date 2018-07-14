@@ -28,9 +28,12 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/KshitijSrivastava/Voice-Based-Tone-Classification-and-Person-Identification">Embedded Systems- Voice based Tone and Person Identification </a></li>
+	<li><a href="https://github.com/KshitijSrivastava/MLGenderIdentification">Machine Learning- Gender Identification and Classification</a></li>
+	<li><a href="https://github.com/KshitijSrivastava/Optimum-Detection-of-Signals-in-Rayleigh-Fading">Digital Communication- Optimum Detection of Signals in Rayleigh Fading Channel</a></li>
 	<li><a href="https://github.com/">Communication Engg Project- Data Transmission through light using Arduino</a></li>
-	<li><a href="https://github.com/">Driverless Bot</a></li>
-	<li><a href="https://github.com/">Gender Identification and Classification</a></li>
+	<li><a href="https://github.com/">Robotics- Driverless Bot</a></li>
+	
 </ul>
 
 <h2>Internships</h2>
