@@ -35,8 +35,8 @@ analytics-google: 'UA-115448865-1'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: yashshaurya.srivastava
-twitter: kshitij_snu
+#facebook: yashshaurya.srivastava
+#twitter: kshitij_snu
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -69,7 +69,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
